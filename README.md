@@ -10,7 +10,7 @@
 </p>
 
 - 🧐 **Quality-Driven** | 🔍 **Bug Hunter** | ⚡ **Automation Enthusiast**
-- 💼 **Junior QA Engineer at BPAS Solutions Pvt Ltd**
+- 💼 **An Innovative Fresher Automation / Manual Tester**
 - 🎯 **Expertise in Manual & Automation Testing**
 - 📌 **Specialized in Functional, Regression, and UI Testing**
 - 📫 **How to reach me:** [puja291196m@gmail.com](mailto:puja291196m@gmail.com)
