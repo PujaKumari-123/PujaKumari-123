@@ -1,5 +1,5 @@
 <!-- GitHub Profile Header -->
-<img src="https://github.com/PujaKumari-123/PujaKumari-123/blob/main/github-header-image.png?raw=true" alt="MasterHead" width="100%" />
+<img src="https://raw.githubusercontent.com/PujaKumari-123/PujaKumari-123/main/testing-banner.png" alt="MasterHead" width="100%" />
 
 <!-- Introduction -->
 <h1 align="center" style="font-family: 'Cursive', sans-serif; font-size: 45px; color: #FF5733;">Hi 👋, I'm Puja Kumari</h1>
@@ -13,6 +13,9 @@
 </p>
 
 - 🧐 **Quality-Driven** | 🔍 **Bug Hunter** | ⚡ **Automation Enthusiast**
+- 💼 **Junior QA Engineer at BPAS Solutions Pvt Ltd**
+- 🎯 **Expertise in Manual & Automation Testing**
+- 📌 **Specialized in Functional, Regression, and UI Testing**
 - 📫 **How to reach me:** [puja291196m@gmail.com](mailto:puja291196m@gmail.com)
 
 ---
@@ -35,6 +38,8 @@
     <img src="https://img.shields.io/badge/Cypress-%23303E3F?style=flat&logo=cypress&logoColor=white" alt="Cypress"/>
     <img src="https://img.shields.io/badge/TestNG-%2300B2B8?style=flat&logo=testng&logoColor=white" alt="TestNG"/>
     <img src="https://img.shields.io/badge/Git-%23F14E32?style=flat&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </p>
 
 ---
