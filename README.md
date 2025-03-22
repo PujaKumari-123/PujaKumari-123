@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=princu2701&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+    <img src="https://komarev.com/ghpvc/?username=PujaKumari-123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 <p align="left"> 
