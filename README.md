@@ -1,6 +1,3 @@
-<!-- GitHub Profile Header -->
-<img src="https://raw.githubusercontent.com/PujaKumari-123/PujaKumari-123/main/testing-banner.png" alt="MasterHead" width="100%" />
-
 <!-- Introduction -->
 <h1 align="center" style="font-family: 'Cursive', sans-serif; font-size: 45px; color: #FF5733;">Hi 👋, I'm Puja Kumari</h1>
 <h3 align="center" style="font-family: 'Cursive', sans-serif; font-size: 28px; color: #3498db;">A Passionate & Detail-Oriented Software Tester 🚀</h3>
@@ -17,6 +14,12 @@
 - 🎯 **Expertise in Manual & Automation Testing**
 - 📌 **Specialized in Functional, Regression, and UI Testing**
 - 📫 **How to reach me:** [puja291196m@gmail.com](mailto:puja291196m@gmail.com)
+
+---
+
+<h3 align="center" style="font-family: 'Cursive', sans-serif; font-size: 24px; color: #16a085;">💡 "Testing is not just finding bugs; it's about making software reliable and user-friendly!"</h3>
+
+<h3 align="center" style="font-family: 'Cursive', sans-serif; font-size: 24px; color: #e67e22;">🚀 Striving to Enhance Software Quality Every Day!</h3>
 
 ---
 
